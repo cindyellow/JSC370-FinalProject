@@ -1,8 +1,8 @@
-## Restaurants Performance During COVID-19: A Yelp Analysis
+# Restaurants Performance During COVID-19: A Yelp Analysis
 
 ## About the Project
 
-This was completed as a final project for the course JSC370: Data Science II at the University of Toronto. 
+This was completed as a final project for the course "JSC370: Data Science II" at the University of Toronto. 
 
 ## Project Motivation & Description 
 
