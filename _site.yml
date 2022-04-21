@@ -8,8 +8,6 @@ navbar:
       href: methods.html  
     - text: "Discussion"
       href: discussion.html
-    - text: "Download Report"
-      href: https://github.com/cindyellow/JSC370-FinalProject/blob/master/JSC370_FinalProject_Report_Shih-Ting(Cindy)Huang.pdf 
   right:
     - icon: fa-github fa-lg
       href: https://github.com/cindyellow
