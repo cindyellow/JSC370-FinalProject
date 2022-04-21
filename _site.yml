@@ -1,0 +1,25 @@
+name: "JSC370-FinalProject"
+navbar:
+  title: "JSC370 Final Project"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Methods & Results"
+      href: methods.html  
+    - text: "Discussion"
+      href: discussion.html
+    - text: "Download Report"
+      href: discussion.html    
+  right:
+    - icon: fa-github fa-lg
+      href: https://github.com/cindyellow
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/cindy-shih-ting-huang/
+    - text: "Download Report"
+output:
+  html_document:
+    theme: simplex
+    include:
+      after_body: footer.html
+    css: styles.css
+      
